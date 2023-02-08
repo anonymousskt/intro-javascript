@@ -1,0 +1,20 @@
+{
+  "name": "intro-javascript",
+  "version": "1.0.0",
+  "description": "introdução programação javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonymousskt/intro-javascript.git"
+  },
+  "keywords": [],
+  "author": "rauny.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anonymousskt/intro-javascript/issues"
+  },
+  "homepage": "https://github.com/anonymousskt/intro-javascript#readme"
+}
