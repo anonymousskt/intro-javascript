@@ -10,6 +10,6 @@
  
 </details>
 
-### ATENÇÃO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30" height="30"/>
+### ATENÇÃO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif?raw=true" width="30" height="30"/>
 Olá Sou Rauny E Estou Aprendendo JavaScript
 </div>
