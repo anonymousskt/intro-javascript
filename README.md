@@ -11,6 +11,5 @@
 </details>
 
 ### ATENÇÃO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif?raw=true" width="30" height="30"/>
-Olá Sou Rauny E Estou Aprendendo JavaScript <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif?raw=true" width="19px"/> 
+Olá Eu Sou Rauny E Estou Aprendendo JavaScript <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif?raw=true" width="19px"/> 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" width="29px"/>
-</div>
