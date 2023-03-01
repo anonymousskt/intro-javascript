@@ -2,15 +2,14 @@
 console.log('Olá Estou Programando Em JavaScript');
 
 
-
 //Comentario Que Ocupa Uma Linha
-
 
 
 /*
     comentário que ocupa mais 
     de uma linha 
 */
+
 
 // criação de variável do tipo texto
 let nome = 'Rauny Aruam De Oliveira Reis';

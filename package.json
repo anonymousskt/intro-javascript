@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/anonymousskt/intro-javascript/issues"
   },
-  "homepage": "https://github.com/anonymousskt/intro-javascript#readme"
+  "homepage": "https://github.com/anonymousskt/intro-javascript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }

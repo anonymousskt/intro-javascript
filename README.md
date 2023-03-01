@@ -13,3 +13,6 @@
 ### ATENÇÃO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30" height="30"/>
 Olá Sou Rauny E Estou Aprendendo JavaScript
 </div>
+<p>
+sou palmeirense
+<img src= "https://www.ogol.com.br/img/history/imgS620I11712T20190402191855.png" width="20" height="20"/>
