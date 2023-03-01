@@ -1,6 +1,6 @@
 # intro-JavaScript
  Introdução Programação JavaScript
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO POR: RAUNYKKJ
+## FEITO POR: RAUNYKKJ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p>
 <img src="https://gifdb.com/images/high/meliodas-black-mark-cnliycz7ztda93un.gif" width="230" height="230"/>
 </p>
