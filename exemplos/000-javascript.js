@@ -73,7 +73,7 @@ console.log('Tipo Da Variavel: ' + typeof(cores_favoritas));
 
 
 
-console.log('Endereço : ' + endereco.logradouro + ' ' + endereco.nome_logradouro + ', ' + endereco.número + ' - ' + endereco.bairro + ' - ' + endereco.cidade);
+console.log('Endereço : ' + endereco.logradouro + ', ' + endereco.nome_logradouro + ' - ' + endereco.número + ' - ' + endereco.bairro + ' - ' + endereco.cidade);
 console.log('Tipo Da Variavel: ' + typeof(endereço));
 
 
