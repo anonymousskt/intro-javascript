@@ -30,7 +30,7 @@ let corFavorita = 'laranja';
 let cores_favoritas = ['preto', 'branco', 'vermelho'];
 
 // exemplo de variável que armazena um objeto
-let endereço = {
+let endereco = {
     'logradouro'        : 'Rua',
     'nome_logradouro'   : 'Brasil',
     'número'            : '951 B',
@@ -68,12 +68,12 @@ console.log('Tipo Da Variavel: ' + typeof(corFavorita));
 
 
 
-console.log('Cores Favoritas: ' + cores_favoritas);
+console.log('Cores Favoritas: ' + cores_favoritas[0] + ', ' + cores_favoritas [1] + ', ' + cores_favoritas [2]);
 console.log('Tipo Da Variavel: ' + typeof(cores_favoritas));
 
 
 
-console.log('Endereço : ' + endereço);
+console.log('Endereço : ' + endereco.logradouro + ' ' + endereco.nome_logradouro + ', ' + endereco.número + ' - ' + endereco.bairro + ' - ' + endereco.cidade);
 console.log('Tipo Da Variavel: ' + typeof(endereço));
 
 
