@@ -1,4 +1,4 @@
-# intro-JavaScript
+# Intro-JavaScript
  Introdução Programação JavaScript
 ## FEITO POR: RAUNYKKJ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p>
