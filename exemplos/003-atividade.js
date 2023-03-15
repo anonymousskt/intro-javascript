@@ -6,23 +6,11 @@ let entrada  = require('prompt-sync')();
 */
 
 let nome = entrada('Digite seu nome: ');
-console.log('aperte ENTER para ir pra idade');
-entrada();
+let idade = parseInt(entrada('Digite sua idade: '));
 
-let idade = entrada('Dgite sua idade: ');
-console.log('aperte ENTER para ver tudo');
-entrada();
+let idade25 = idade + 25;
 
-let valor = '';
-
-console.log('Seu nome é: ' + nome);
-
-console.log('Sua idade é: ' + idade);
-
-let soma = idade + 25;
-
-valor = entrada('Sua idade daqui 25 anos é: ' + soma);
-
+console.log(nome + ' daqui a 25 anos sua idade será: ' + idade25);
 
 console.log('Pressione ENTER para encerrar!');
 entrada();
