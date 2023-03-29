@@ -12,5 +12,4 @@ if (vogais.test(letra)) {
     
 } else {
     console.log('A 1ª Letra Do Seu Nome É Uma Consoante');
-    
 }
