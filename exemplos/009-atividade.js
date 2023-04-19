@@ -14,6 +14,10 @@ if (nota1 >= 0 && nota1 <= 10 && nota2 >= 0 && nota2 <= 10) {
     const media = (nota1 + nota2) / 2;
 
     if (media >= 7) {
-        
-    }
+    console.log("Aprovado");
+  } else {
+    console.log("Reprovado");
+}
+  } else {
+    console.log("Nota invalida Digite notas entre 0 e 10");
 }
