@@ -31,7 +31,7 @@ for (let n = 0; n < resMegaSena.length; n++) {
     mensagem = mensagem + resMegaSena[n] + (resMegaSena.length == n + 1 ? '' : ' - ');
 }
 
-
+// log mostrar resultados
 mensagem = 'Seu jogo: '
 
 for (let n = 0; n < meuJogo.length; n++) {
